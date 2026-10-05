@@ -1,0 +1,10 @@
+{
+  "name": "VITALRUSH — Fitness Coach",
+  "short_name": "VITALRUSH",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0e",
+  "theme_color": "#080a0e",
+  "lang": "fr",
+  "description": "Musculation, course, nutrition et progression."
+}
